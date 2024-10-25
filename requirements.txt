@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+cryptography
+PyQt6
+ecdsa
+scipy
